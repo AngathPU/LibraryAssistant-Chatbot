@@ -254,21 +254,21 @@ public class chatbot extends JFrame {
 
     private void seedData() {
         // 1. Classic Books (1-15)
-        addBook(15, "Les Misérables", "Victor Hugo");
-        addBook(14, "The Odyssey", "Homer");
-        addBook(13, "Crime and Punishment", "Dostoevsky");
-        addBook(12, "Lord of the Rings", "Tolkien");
-        addBook(11, "The Hobbit", "Tolkien");
-        addBook(10, "Animal Farm", "Orwell");
-        addBook(9, "Catcher in the Rye", "Salinger");
+        addBook(1, "Les Misérables", "Victor Hugo");
+        addBook(2, "The Odyssey", "Homer");
+        addBook(3, "Crime and Punishment", "Dostoevsky");
+        addBook(4, "Lord of the Rings", "Tolkien");
+        addBook(5, "The Hobbit", "Tolkien");
+        addBook(6, "Animal Farm", "Orwell");
+        addBook(7, "Catcher in the Rye", "Salinger");
         addBook(8, "Pride and Prejudice", "Austen");
-        addBook(7, "War and Peace", "Tolstoy");
-        addBook(6, "Moby-Dick", "Melville");
-        addBook(5, "The Great Gatsby", "Fitzgerald");
-        addBook(4, "To Kill a Mockingbird", "Lee");
-        addBook(3, "Fahrenheit 451", "Bradbury");
-        addBook(2, "Brave New World", "Huxley");
-        addBook(1, "1984", "Orwell");
+        addBook(9, "War and Peace", "Tolstoy");
+        addBook(10, "Moby-Dick", "Melville");
+        addBook(11, "The Great Gatsby", "Fitzgerald");
+        addBook(12, "To Kill a Mockingbird", "Lee");
+        addBook(13, "Fahrenheit 451", "Bradbury");
+        addBook(14, "Brave New World", "Huxley");
+        addBook(15, "1984", "Orwell");
 
         // 2. Random Generated Books (16-115)
         String[] pre = {"Advanced", "The Secret", "Origins of", "Intro to", "Mastering", "The Lost", "Digital"};
