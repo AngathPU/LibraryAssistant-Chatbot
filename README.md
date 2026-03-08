@@ -1,4 +1,4 @@
-# 📚 Aesthetic Library Assistant Bot
+# 📚  Library Assistant Bot
 
 A modern, chatbot-inspired Library Management System built with **Java Swing**.
 
